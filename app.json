@@ -31,9 +31,6 @@
       },
       "edgeToEdgeEnabled": true
     },
-    "plugins": [
-      "expo-router",
-      "expo-speech"
-    ]
+    "plugins": []
   }
 }
